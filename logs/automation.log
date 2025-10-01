@@ -1,0 +1,277 @@
+11:08:22.259 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+11:08:23.015 [main] INFO  testCases.TC_Addadminusers - Enter the username
+11:08:23.110 [main] INFO  testCases.TC_Addadminusers - Enter the password
+11:08:27.728 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+11:08:30.941 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+11:17:23.870 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+11:17:24.449 [main] INFO  testCases.TC_Addadminusers - Enter the username
+11:17:24.552 [main] INFO  testCases.TC_Addadminusers - Enter the password
+11:17:29.404 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+11:17:32.567 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+12:40:26.148 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:40:27.005 [main] INFO  testCases.TC_Addadminusers - Enter the username
+12:40:27.091 [main] INFO  testCases.TC_Addadminusers - Enter the password
+12:40:31.224 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:40:52.121 [main] ERROR testCases.TC_Addadminusers - Test failed
+12:41:06.356 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:41:07.190 [main] INFO  testCases.TC_Addadminusers - Enter the username
+12:41:07.299 [main] INFO  testCases.TC_Addadminusers - Enter the password
+12:41:11.584 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:41:32.359 [main] ERROR testCases.TC_Addadminusers - Test failed
+12:43:54.701 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:43:55.275 [main] INFO  testCases.TC_Addadminusers - Enter the username
+12:43:55.362 [main] INFO  testCases.TC_Addadminusers - Enter the password
+12:44:00.559 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:44:21.481 [main] ERROR testCases.TC_Addadminusers - Test failed
+12:44:52.273 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:44:53.449 [main] INFO  testCases.TC_Addadminusers - Enter the username
+12:44:53.547 [main] INFO  testCases.TC_Addadminusers - Enter the password
+12:44:57.994 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:45:00.777 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+12:48:01.681 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:48:02.403 [main] INFO  testCases.TC_Addadminusers - Enter the username
+12:48:02.451 [main] INFO  testCases.TC_Addadminusers - Enter the password
+12:48:08.473 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:48:11.216 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:18:17.719 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:18:18.671 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:18:18.819 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:18:23.700 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:18:44.747 [main] ERROR testCases.TC_Addadminusers - Test failed
+14:19:09.196 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:19:09.954 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:19:10.037 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:19:15.619 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:19:36.464 [main] ERROR testCases.TC_Addadminusers - Test failed
+14:19:45.678 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:19:46.561 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:19:46.644 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:19:52.146 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:20:13.141 [main] ERROR testCases.TC_Addadminusers - Test failed
+14:21:43.932 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:21:44.757 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:21:44.859 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:21:49.577 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:21:52.665 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:21:59.982 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:22:00.820 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:22:00.906 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:22:06.174 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:22:09.499 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:22:17.861 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:22:19.107 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:22:19.133 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:22:28.358 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:22:30.929 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:25:38.604 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:25:38.674 [TestNG-tests-2] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:25:39.141 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Enter the username
+14:25:39.209 [TestNG-tests-2] INFO  testCases.TC_Addadminusers - Enter the username
+14:25:39.440 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Enter the password
+14:25:39.490 [TestNG-tests-2] INFO  testCases.TC_Addadminusers - Enter the password
+14:25:42.864 [TestNG-tests-3] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:25:43.966 [TestNG-tests-3] INFO  testCases.TC_Addadminusers - Enter the username
+14:25:44.204 [TestNG-tests-3] INFO  testCases.TC_Addadminusers - Enter the password
+14:25:45.532 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Providing admin details
+14:25:45.582 [TestNG-tests-2] INFO  testCases.TC_Addadminusers - Providing admin details
+14:25:50.479 [TestNG-tests-2] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:25:51.479 [TestNG-tests-1] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:25:52.460 [TestNG-tests-3] INFO  testCases.TC_Addadminusers - Providing admin details
+14:25:55.289 [TestNG-tests-3] INFO  testCases.TC_Addadminusers -  Automation script finished 
+14:52:37.410 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:52:37.981 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:52:38.060 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:52:44.462 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:53:05.381 [main] ERROR testCases.TC_Addadminusers - Test failed
+14:53:22.556 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:53:24.021 [main] INFO  testCases.TC_Addadminusers - Enter the username
+14:53:24.141 [main] INFO  testCases.TC_Addadminusers - Enter the password
+14:53:29.081 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:53:50.106 [main] ERROR testCases.TC_Addadminusers - Test failed
+14:33:55.466 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:34:17.016 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:34:40.274 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:35:01.773 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:36:14.093 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:36:36.065 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:36:56.785 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:37:18.143 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:42:14.888 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:42:35.042 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:42:55.064 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:43:15.101 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:46:21.996 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:46:42.189 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:47:02.269 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:47:22.307 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:47:50.609 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:48:10.748 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:48:30.788 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+14:48:50.845 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:03:14.299 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:03:34.437 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:03:54.504 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:04:14.562 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:06:12.725 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:06:32.903 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:06:52.958 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:07:12.981 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:16:06.742 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:16:26.924 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:16:47.004 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:17:07.068 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:17:41.466 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:18:01.648 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:18:21.720 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+15:18:41.812 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:02:29.185 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:02:49.391 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:03:09.439 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:03:29.472 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:04:41.073 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:04:53.268 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:04:53.375 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:04:53.385 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:05:36.261 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:05:56.337 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:06:16.359 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:06:36.435 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:07:52.786 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:08:12.929 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:08:32.997 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:08:41.688 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:08:53.052 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:09:01.917 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:09:22.001 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:09:42.082 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:10:10.313 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:10:32.891 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:10:54.834 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:11:16.059 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:39:18.511 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:39:39.741 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:40:01.479 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:40:23.183 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:42:21.007 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:42:43.213 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:43:05.097 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:43:26.612 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:58:50.563 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+16:58:51.444 [main] INFO  testCases.TC_Addadminusers - Enter the username
+16:58:51.552 [main] INFO  testCases.TC_Addadminusers - Enter the password
+16:58:57.867 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+16:59:01.692 [main] INFO  testCases.TC_Addadminusers -  Automation script finished 
+16:59:09.299 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:59:30.769 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+16:59:51.140 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+17:00:11.876 [main] INFO  testCases.TC02_DDTtesting - ***login started***
+12:32:17.773 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:32:18.335 [main] INFO  testCases.TC_Addadminusers - Entered username
+12:32:18.418 [main] INFO  testCases.TC_Addadminusers - Entered password
+12:32:22.890 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:32:25.535 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+12:33:17.342 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+12:33:18.179 [main] INFO  testCases.TC_Addadminusers - Entered username
+12:33:18.268 [main] INFO  testCases.TC_Addadminusers - Entered password
+12:33:22.717 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+12:33:25.823 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+20:00:07.955 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+20:00:28.055 [main] ERROR testCases.TC_Addadminusers - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Username']"}
+  (Session info: chrome=140.0.7339.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f6924d100b7c31021f511b843503998b, findElement {value=//input[@placeholder='Username'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.185, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\SURYAD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59130}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59130/devtoo..., se:cdpVersion: 140.0.7339.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f6924d100b7c31021f511b843503998b
+20:49:35.554 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+20:49:37.310 [main] INFO  testCases.TC_Addadminusers - Entered username
+20:49:37.425 [main] INFO  testCases.TC_Addadminusers - Entered password
+20:49:45.217 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+20:50:06.153 [main] ERROR testCases.TC_Addadminusers - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Ranga')]"}
+  (Session info: chrome=140.0.7339.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd212b58c98a379f6bba7f9d2a5e287b, findElement {using=xpath, value=//span[contains(text(),'Ranga')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.185, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\SURYAD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58618}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58618/devtoo..., se:cdpVersion: 140.0.7339.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd212b58c98a379f6bba7f9d2a5e287b
+21:13:26.737 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+21:13:46.816 [main] ERROR testCases.TC_Addadminusers - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Username']"}
+  (Session info: chrome=140.0.7339.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78b5c43a2836da5aed12ca590af2c5a1, findElement {using=xpath, value=//input[@placeholder='Username']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.185, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\SURYAD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51712/devtoo..., se:cdpVersion: 140.0.7339.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 78b5c43a2836da5aed12ca590af2c5a1
+22:10:56.184 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+22:10:57.121 [main] INFO  testCases.TC_Addadminusers - Entered username
+22:10:57.291 [main] INFO  testCases.TC_Addadminusers - Entered password
+22:11:02.372 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+22:11:05.688 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+22:14:29.298 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+22:14:30.474 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Entered username
+22:14:30.750 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Entered password
+22:14:35.622 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Providing admin details
+22:14:40.214 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Automation script finished
+22:16:40.124 [TestNG-tests-3] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+22:16:40.181 [TestNG-tests-3] ERROR testCases.TC_Addadminusers - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+22:16:51.594 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+22:16:53.538 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Entered username
+22:16:53.676 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Entered password
+22:17:00.780 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Providing admin details
+22:17:06.295 [TestNG-tests-1] INFO  testCases.TC_Addadminusers - Automation script finished
+13:35:44.753 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+13:35:46.511 [main] INFO  testCases.TC_Addadminusers - Entered username
+13:35:46.738 [main] INFO  testCases.TC_Addadminusers - Entered password
+13:36:34.979 [main] ERROR testCases.TC_Addadminusers - Test failed: tab crashed
+  (Session info: chrome=140.0.7339.207)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [a57aec2d2f6098af2afcbf7b25788655, findElement {using=xpath, value=//button[normalize-space()='Add']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.207, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38655}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 140.0.7339.207, se:containerName: e592fa22291c, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a57aec2d2f6098af2afcbf7b25788655
+13:39:49.609 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+13:39:51.501 [main] INFO  testCases.TC_Addadminusers - Entered username
+13:39:51.689 [main] INFO  testCases.TC_Addadminusers - Entered password
+13:40:28.722 [main] ERROR testCases.TC_Addadminusers - Test failed: tab crashed
+  (Session info: chrome=140.0.7339.207)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [1ee0f5d0204e201747fda15bcade6464, clickElement {id=f.FEC9AD26D95407FC7E6E0DCCE350FF10.d.F2D2B9A78E64FD7032A5689B9D9E5B46.e.34}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.207, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:42777}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 140.0.7339.207, se:containerName: e592fa22291c, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (1ee0f5d0204e201747fda15bcade6464)] -> xpath: //button[normalize-space()='Add']]
+Session ID: 1ee0f5d0204e201747fda15bcade6464
+13:53:33.344 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+13:53:34.660 [main] INFO  testCases.TC_Addadminusers - Entered username
+13:53:34.992 [main] INFO  testCases.TC_Addadminusers - Entered password
+13:54:12.920 [main] ERROR testCases.TC_Addadminusers - Test failed: tab crashed
+  (Session info: chrome=140.0.7339.207)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [09abb97c0853e0a479e8044af2bc3b31, clickElement {id=f.51F78EE199206CDAA3033A8577AF2444.d.2C0CFF2AC88C524327C76F53A7329593.e.43}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.207, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35159}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 140.0.7339.207, se:containerName: e592fa22291c, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (09abb97c0853e0a479e8044af2bc3b31)] -> xpath: //button[normalize-space()='Add']]
+Session ID: 09abb97c0853e0a479e8044af2bc3b31
+17:49:14.215 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+17:49:14.901 [main] INFO  testCases.TC_Addadminusers - Entered username
+17:49:15.089 [main] INFO  testCases.TC_Addadminusers - Entered password
+17:49:20.244 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+17:49:25.058 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+17:51:27.118 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+17:51:28.468 [main] INFO  testCases.TC_Addadminusers - Entered username
+17:51:28.661 [main] INFO  testCases.TC_Addadminusers - Entered password
+17:51:34.243 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+17:51:37.712 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+18:17:23.437 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+18:17:24.596 [main] INFO  testCases.TC_Addadminusers - Entered username
+18:17:24.734 [main] INFO  testCases.TC_Addadminusers - Entered password
+18:17:29.340 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+18:17:32.484 [main] INFO  testCases.TC_Addadminusers - Automation script finished
