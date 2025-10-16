@@ -1,0 +1,25 @@
+13:28:58.664 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+13:28:59.547 [main] INFO  testCases.TC_Addadminusers - Entered username
+13:28:59.681 [main] INFO  testCases.TC_Addadminusers - Entered password
+13:29:05.394 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+13:29:08.168 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+13:57:38.939 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+13:57:39.611 [main] INFO  testCases.TC_Addadminusers - Entered username
+13:57:39.714 [main] INFO  testCases.TC_Addadminusers - Entered password
+13:57:44.800 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+13:57:47.890 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+14:05:05.488 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+14:05:05.931 [main] INFO  testCases.TC_Addadminusers - Entered username
+14:05:06.072 [main] INFO  testCases.TC_Addadminusers - Entered password
+14:05:10.621 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+14:05:14.071 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+22:54:08.506 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+22:54:09.625 [main] INFO  testCases.TC_Addadminusers - Entered username
+22:54:09.751 [main] INFO  testCases.TC_Addadminusers - Entered password
+22:54:15.401 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+22:54:18.360 [main] INFO  testCases.TC_Addadminusers - Automation script finished
+20:57:47.431 [main] INFO  testCases.TC_Addadminusers - **** Login page automation start ****
+20:57:49.671 [main] INFO  testCases.TC_Addadminusers - Entered username
+20:57:49.770 [main] INFO  testCases.TC_Addadminusers - Entered password
+20:57:59.061 [main] INFO  testCases.TC_Addadminusers - Providing admin details
+20:58:02.909 [main] INFO  testCases.TC_Addadminusers - Automation script finished
