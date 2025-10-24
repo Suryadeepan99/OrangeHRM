@@ -26,11 +26,12 @@ public class HomePage extends BasePage {
 	@FindBy(xpath="//input[@placeholder='Type for hints...']")
 	WebElement txtEmpname;
 	
-	@FindBy(xpath="//span[contains(text(),'Ranga')]")
+	@FindBy(xpath="//span[contains(text(),'Sheena')]")
 	WebElement selempname;
 	//span[normalize-space()='A8DCo 4Ys 010Z']
 	//span[contains(text(),'Ranga')]
 	//span[normalize-space()='A8DCo 4Ys 010Z']
+	//span[contains(text(),'Sheena')]
 	@FindBy(xpath="//body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]")
 	WebElement statusdrp;
 	
