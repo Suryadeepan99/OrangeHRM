@@ -12,13 +12,6 @@
           <include name="verifyadminuser"/>
         </methods>
       </class> <!-- testCases.TC_Addadminusers -->
-      <class name="testCases.TC01_Loginpage">
-        <methods>
-          <include name="setup"/>
-          <include name="teardown"/>
-          <include name="verifylogin"/>
-        </methods>
-      </class> <!-- testCases.TC01_Loginpage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
